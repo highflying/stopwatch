@@ -1,0 +1,12 @@
+Task:
+Basic StopWatch:
+
+Create a program that allows the user to record the time interval between two discret times.
+
+The program should support the following requirements:
+
+start the stopwatch
+stop the stopwatch
+display the interval between starting and stopping
+
+
